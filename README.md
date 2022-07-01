@@ -68,7 +68,7 @@ _Follow the following steps to install and setup the environment._
 ## Features
 
 * Login to experience the beauty of the gallery and share photos.
-* Create am awesome profile with all your favourite photos.
+* Create an awesome profile with all your favourite photos.
 * Favourite your liked photos to filter them out efficiently.
 * Several sorted categories to keep the gallery sorted.
 * Download the photos with just one click.
