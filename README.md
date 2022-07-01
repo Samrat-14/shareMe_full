@@ -96,4 +96,4 @@ Live Demo: [https://samrat-shareme.netlify.app](https://samrat-shareme.netlify.a
 
 ## Contact
 
-Your Name - [Samrat Sadhu](https://samrat-14.github.io/my-portfolio/) - ss2414@ece.jgec.ac.in
+[Samrat Sadhu](https://samrat-14.github.io/my-portfolio/) - ss2414@ece.jgec.ac.in
