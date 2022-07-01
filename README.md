@@ -45,7 +45,7 @@ Create account in [Sanity.io](https://www.sanity.io/) to get started with the ap
 
 ### Installation
 
-_Follow the following steps to install and setup the virtual environment._
+_Follow the following steps to install and setup the environment._
 
 1. Clone the repo
    ```sh
